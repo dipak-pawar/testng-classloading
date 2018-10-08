@@ -32,3 +32,4 @@ Interestingly enough those two JARs are identical in terms of the content (at le
 > In general, Class.getResource() is intended to access file based resources (on the filesystem, or from jar files or wherever..) It is not specified
 what the effect of accessing a directory entry is, and therefore this behavior can not be expected to be the same across different URL schemes.
 
+> this is just a test
